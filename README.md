@@ -6,7 +6,8 @@
 
 This project aims to segment bank customers into distinct groups based on geographical location and other relevant features. By grouping customers, the bank can tailor marketing strategies, understand customer behavior better, and provide targeted services to improve customer satisfaction and retention.
 
-<p align="center">**Project Overview**</p>
+**Project Overview**
+
 This segmentation is achieved through a combination of data cleaning and clustering techniques. Using unsupervised learning, we identified clusters of customers that share similar characteristics, focusing on geography as a primary attribute.
 
 **Key Steps**
