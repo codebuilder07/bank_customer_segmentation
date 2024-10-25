@@ -1,4 +1,5 @@
-# Bank Customer Segmentation
+
+<p style="text-align: center;"># Bank Customer Segmentation</p>
 
 
 ![Project Description](https://github.com/codebuilder07/bank_customer_segmentation/blob/bbc08eeae387590096487a85a4b2ccacd57369e5/project%20description.png)
@@ -16,8 +17,8 @@ Missing Values: Handled any missing data entries.
 Data Standardization: Standardized numerical data to ensure consistency.
 Categorical Encoding: Converted categorical variables (like geographical region) into a machine-readable format.
 Feature Engineering:
-
 Selected and engineered relevant features to improve clustering results.
+
 2.**_Clustering:_**
 
 K-Means Clustering: Applied K-Means clustering on the cleaned and preprocessed data, testing various numbers of clusters to identify the optimal segmentation.
@@ -32,7 +33,6 @@ Through clustering, we identified key segments based on geography and other beha
 3.**Visualizations**
 
 Above: Visualization of customer segments based on geographic clustering.
-
 Technologies Used
 Python: For data processing and clustering.
 Pandas & NumPy: For data manipulation.
@@ -40,6 +40,7 @@ scikit-learn: For K-Means clustering.
 Matplotlib & Seaborn: For visualizing cluster results.
 
 4.**Future Improvements**
+
 Refinement of Clusters: Test with additional clustering methods like hierarchical clustering.
 Feature Expansion: Incorporate more features such as transaction history or customer satisfaction scores for a more nuanced segmentation.
 ![All information about the data set:](https://github.com/codebuilder07/bank_customer_segmentation/blob/39c7db56088016ab48657f76d2c2ef973ce7ab07/data_description.png)
