@@ -1,5 +1,5 @@
 
-<p style="text-align: center;"># Bank Customer Segmentation</p>
+<h1 align="center">Bank Customer Segmentation Project</h1>
 
 
 ![Project Description](https://github.com/codebuilder07/bank_customer_segmentation/blob/bbc08eeae387590096487a85a4b2ccacd57369e5/project%20description.png)
